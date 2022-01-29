@@ -251,7 +251,7 @@ h6 {
   -webkit-box-shadow: -1px 1px 3px -1px rgba(0, 0, 0, 0.75);
   -moz-box-shadow: -1px 1px 3px -1px rgba(0, 0, 0, 0.75);
   box-shadow: -1px 1px 3px -1px rgba(0, 0, 0, 0.75);
-  /* background-color: #fff; */
+  background-color: #fff;
 }
 
 img.thumbnail {
